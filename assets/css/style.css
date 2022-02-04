@@ -412,7 +412,7 @@ section {
   display: block;
   font-weight: 600;
   font-family: "Poppins", sans-serif;
-  color: #7f9fcc;
+  color: black;
 }
 .skills .progress .skill .val {
   float: right;
