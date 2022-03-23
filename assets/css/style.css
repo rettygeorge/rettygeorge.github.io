@@ -1204,7 +1204,8 @@ body .container .card .box .content a:hover {
   margin-top: 5px;
 }
 .blog-card .description .read-more {
-  text-align: right;
+  display: flex;
+  justify-content: space-between;
 }
 .blog-card .description .read-more a {
   color: #5ad67d;
